@@ -2,6 +2,14 @@
 
 This is a UI only streaming website made with knockout.js
 
+## Motivation
+
+This project was an assignment to learn about the (Model-View-ViewModel) by using the knockout.js library.
+
+## Recognition
+
+[@LeniKoehler](https://github.com/LeniKoehler)
+
 ## Demo
 
 Open the index.html directly in the browser or the page can be alternatively be viewed here: https://lenikoehler.github.io/knockout-streaming-site/index.html
