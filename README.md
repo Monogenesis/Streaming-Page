@@ -31,7 +31,3 @@ Open the index.html directly in the browser or the page can be alternatively be 
 
 ![mainPage](https://raw.githubusercontent.com/LeniKoehler/knockout-streaming-site/master/screenshot/mainpage.png)
 
-## Developers
-
-- [@LeniKoehler](https://github.com/LeniKoehler)
-- [@Monogenesis](https://github.com/Monogenesis)
