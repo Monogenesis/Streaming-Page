@@ -1,6 +1,6 @@
 # Streaming Page
 
-This is a UI only streaming website made with knockout.js
+This is a UI only streaming website made with knockout.js.
 
 ## Motivation
 
